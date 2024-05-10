@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\lab5\\Q2_Insurance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA0BE3-27BA-4C47-BB9F-C2900C17EFC1}|Q2_Insurance\\Q2_Insurance.csproj|c:\\users\\asusz\\onedrive\\desktop\\semester4\\comp212-programming 3\\assignments\\lab5\\lab5\\q2_insurance\\q2_insurance\\mlmodel3.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{17AA0BE3-27BA-4C47-BB9F-C2900C17EFC1}|Q2_Insurance\\Q2_Insurance.csproj|solutionrelative:q2_insurance\\mlmodel3.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04602E5-4CEA-4A9E-A30E-CB4436309E56}|MLModel1_ConsoleApp1\\MLModel1_ConsoleApp1.csproj|C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\lab5\\Q2_Insurance\\mlmodel1_consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04602E5-4CEA-4A9E-A30E-CB4436309E56}|MLModel1_ConsoleApp1\\MLModel1_ConsoleApp1.csproj|solutionrelative:mlmodel1_consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA0BE3-27BA-4C47-BB9F-C2900C17EFC1}|Q2_Insurance\\Q2_Insurance.csproj|C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\lab5\\Q2_Insurance\\q2_insurance\\mlmodel1.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{17AA0BE3-27BA-4C47-BB9F-C2900C17EFC1}|Q2_Insurance\\Q2_Insurance.csproj|solutionrelative:q2_insurance\\mlmodel1.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA0BE3-27BA-4C47-BB9F-C2900C17EFC1}|Q2_Insurance\\Q2_Insurance.csproj|C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\lab5\\Q2_Insurance\\q2_insurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AA0BE3-27BA-4C47-BB9F-C2900C17EFC1}|Q2_Insurance\\Q2_Insurance.csproj|solutionrelative:q2_insurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MLModel3.mbconfig",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\lab5\\Q2_Insurance\\Q2_Insurance\\MLModel3.mbconfig",
+              "RelativeDocumentMoniker": "Q2_Insurance\\MLModel3.mbconfig",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\lab5\\Q2_Insurance\\Q2_Insurance\\MLModel3.mbconfig",
+              "RelativeToolTip": "Q2_Insurance\\MLModel3.mbconfig",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2024-04-08T15:26:44.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\lab5\\Q2_Insurance\\MLModel1_ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "MLModel1_ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\lab5\\Q2_Insurance\\MLModel1_ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "MLModel1_ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:04:51.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MLModel1.mbconfig",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\lab5\\Q2_Insurance\\Q2_Insurance\\MLModel1.mbconfig",
+              "RelativeDocumentMoniker": "Q2_Insurance\\MLModel1.mbconfig",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\lab5\\Q2_Insurance\\Q2_Insurance\\MLModel1.mbconfig",
+              "RelativeToolTip": "Q2_Insurance\\MLModel1.mbconfig",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2024-04-08T14:34:31.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\lab5\\Q2_Insurance\\Q2_Insurance\\Program.cs",
+              "RelativeDocumentMoniker": "Q2_Insurance\\Program.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\lab5\\Q2_Insurance\\Q2_Insurance\\Program.cs",
+              "RelativeToolTip": "Q2_Insurance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:27:37.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
